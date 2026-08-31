@@ -1,4 +1,4 @@
-👋 Hi, I'm Mustafa Jahangir
+👋 Hi, 
 
 
 Senior Software Engineer | [Backend / Full Stack / Platform / Cloud / AI]
@@ -116,7 +116,5 @@ Observability & reliability
 
 
 I'm always interested in discussing software architecture, distributed systems, developer tooling, open source, and interesting engineering problems.
-
-📧 Email: mustafajahangir05@gmail.com
 
 Thanks for stopping by! ⭐
