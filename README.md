@@ -3,7 +3,7 @@
 
 Senior Software Engineer | [Backend / Full Stack / Platform / Cloud / AI]
 
-I’m a Senior Software Engineer with 7+ years of experience building scalable, reliable, and maintainable software systems.
+I’m a Senior Software Engineer with 8+ years of experience building scalable, reliable, and maintainable software systems.
 
 I specialize in full stack development, with a particular interest in distributed systems, cloud architecture, developer experience, and engineering excellence.
 
@@ -84,10 +84,10 @@ Implemented Automated AI Conversational Feature
 Improved latency and reliability by 70%
 
 
-🏗️  7+ years building software
+🏗️  8+ years building software
 
 
-☁️  7+ production systems
+☁️  13+ production systems
 
 
 🚀  30+ projects shipped
@@ -110,5 +110,13 @@ Cloud architecture
 Platform engineering
 Developer tooling
 Observability & reliability
+
+
+🤝 Let's Connect
+
+
+I'm always interested in discussing software architecture, distributed systems, developer tooling, open source, and interesting engineering problems.
+
+📧 Email: mustafajahangir05@gmail.com
 
 Thanks for stopping by! ⭐
